@@ -58,7 +58,7 @@ require (
 	github.com/cpuguy83/go-md2man/v2 v2.0.2 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/dgryski/go-metro v0.0.0-20211217172704-adc40b04c140 // indirect
-	github.com/emicklei/go-restful v2.15.0+incompatible // indirect
+	github.com/emicklei/go-restful v2.16.0+incompatible // indirect
 	github.com/fsnotify/fsnotify v1.5.4 // indirect
 	github.com/go-logr/logr v1.2.3 // indirect
 	github.com/go-openapi/jsonpointer v0.19.5 // indirect
